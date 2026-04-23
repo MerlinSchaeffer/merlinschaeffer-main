@@ -331,6 +331,7 @@ footer {
 }
 .pub-flag { color: var(--olive); margin-right: 0.25em; font-size: 0.95em; }
 .pub-body em { font-style: italic; }
+.pub-note { font-size: 0.82rem; color: var(--mid); font-style: italic; display: block; margin-top: 0.2rem; }
 .pub-award {
   font-family: var(--serif);
   font-size: 0.78rem;
