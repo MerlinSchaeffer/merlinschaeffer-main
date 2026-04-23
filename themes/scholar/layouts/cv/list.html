@@ -1,0 +1,12 @@
+{{ define "main" }}
+<section class="inner-page">
+  <p class="section-label">Curriculum Vitae</p>
+  <div class="page-content">
+    <a class="cv-download" href="/cv/CV.pdf" download>
+      Download CV (PDF)
+    </a>
+    {{ .Content }}
+    <iframe class="cv-embed" src="/cv/CV.pdf" title="Curriculum Vitae"></iframe>
+  </div>
+</section>
+{{ end }}

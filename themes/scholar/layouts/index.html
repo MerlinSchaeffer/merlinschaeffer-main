@@ -1,0 +1,76 @@
+{{ define "main" }}
+<section class="intro">
+  <div class="intro-header">
+    <div class="intro-identity">
+      <h1 class="intro-name"><span style="color:var(--olive)">M</span>erlin Schaeffer</h1>
+      <p class="intro-title">
+        {{ .Site.Params.position }}<br>
+        {{ .Site.Params.subtitle }}
+      </p>
+    </div>
+    <div class="intro-photo">
+      <img src="/images/merlin-profile.jpg" alt="Merlin Schaeffer" width="260" height="260">
+    </div>
+  </div>
+  <div class="intro-statement">{{ .Content }}</div>
+</section>
+
+<hr class="divider">
+
+<section class="featured">
+  <p class="section-label">Selected Work</p>
+  <div class="carousel-wrap" id="carousel">
+    <div class="carousel-track" id="track"></div>
+  </div>
+  <div class="carousel-controls">
+    <div class="carousel-arrows">
+      <button class="arrow-btn" id="prev" aria-label="Previous">&#8592;</button>
+      <button class="arrow-btn" id="next" aria-label="Next">&#8594;</button>
+    </div>
+    <div class="carousel-dots" id="dots"></div>
+    <div class="carousel-progress">
+      <div class="progress-bar-wrap">
+        <div class="progress-bar-fill" id="progress-fill"></div>
+      </div>
+      <span class="progress-label" id="progress-label">10s</span>
+    </div>
+  </div>
+  <div class="pubs-link-wrap">
+    <a class="text-link" href="/publications/">Full publication list &rarr;</a>
+  </div>
+</section>
+
+<section class="credentials">
+  <div class="cred-grid">
+    <div>
+      <p class="cred-label">Funding</p>
+      <p class="cred-value">
+        DFF &ldquo;Green Justice&rdquo;<br>
+        DFG &ldquo;APAD&rdquo;<br>
+        NordForsk &ldquo;Integration Policies&rdquo;
+      </p>
+    </div>
+    <div>
+      <p class="cred-label">Awards</p>
+      <p class="cred-value">
+        ASA &ldquo;Mathematical Sociology&rdquo; 2017<br>
+        ASA &ldquo;Scholarship in Population&rdquo; 2016<br>
+        Anatol Rapoport Prize 2016
+      </p>
+    </div>
+  </div>
+  <div class="links-row">
+    <a class="ext-link" href="/cv/">CV (PDF)</a>
+    <a class="ext-link" href="{{ .Site.Params.googleScholar }}" target="_blank" rel="noopener">Google Scholar</a>
+    <a class="ext-link" href="{{ .Site.Params.orcid }}" target="_blank" rel="noopener">ORCID</a>
+    <a class="ext-link" href="{{ .Site.Params.github }}" target="_blank" rel="noopener">GitHub</a>
+  </div>
+</section>
+{{ end }}
+
+{{ define "scripts" }}
+<script>
+const POOL = {{ .Site.Data.papers | jsonify }};
+</script>
+<script src="/js/carousel.js"></script>
+{{ end }}

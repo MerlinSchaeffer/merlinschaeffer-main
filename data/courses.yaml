@@ -1,0 +1,7 @@
+- title: "Multiple OLS & Fundamentals of Causal Inference"
+  level: "BSc/MSc"
+  language: "English"
+  institution: "University of Copenhagen"
+  term: "Current"
+  description: "Applied regression analysis and causal inference for social scientists, from multiple OLS to matching and instrumental variables."
+  url: "https://merlin-ols.netlify.app"

@@ -1,0 +1,16 @@
+baseURL = 'https://merlinschaeffer.com/'
+languageCode = 'en-us'
+title = 'Merlin Schaeffer — Sociologist'
+theme = 'scholar'
+
+[params]
+  name          = "Merlin Schaeffer"
+  position      = "Professor of Sociology, University of Copenhagen"
+  subtitle      = "WZB Fellow 2021–27"
+  email         = "mesc@soc.ku.dk"
+  googleScholar = "https://scholar.google.com/citations?user=4GibFFUAAAAJ&hl=en&oi=ao"
+  orcid         = "https://orcid.org/0000-0003-1969-8974"
+  github        = "https://github.com/MerlinSchaeffer"
+
+[markup.goldmark.renderer]
+  unsafe = true

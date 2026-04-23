@@ -1,0 +1,22 @@
+{{ define "main" }}
+<section class="inner-page">
+  <p class="section-label">Teaching</p>
+  <div class="page-content">
+    <p>{{ .Content }}</p>
+    <ul class="course-list">
+      {{ range .Site.Data.courses }}
+      <li class="course-item">
+        <div class="course-meta">
+          <span class="course-badge">{{ .level }}</span>
+          <span class="course-badge">{{ .language }}</span>
+          <span class="course-badge">{{ .term }}</span>
+        </div>
+        <a class="course-title" href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
+        <p class="course-desc">{{ .description }}</p>
+        <p class="course-inst">{{ .institution }}</p>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+</section>
+{{ end }}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Params.name }}{{ end }}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<div class="site">
+
+  <nav>
+    <a href="/" class="nav-name">{{ .Site.Params.name }}</a>
+    <ul class="nav-links">
+      <li><a href="/research/"{{ if eq .Section "research" }} class="active"{{ end }}>Research</a></li>
+      <li><a href="/publications/"{{ if eq .Section "publications" }} class="active"{{ end }}>Publications</a></li>
+      <li><a href="/teaching/"{{ if eq .Section "teaching" }} class="active"{{ end }}>Teaching</a></li>
+      <li><a href="/outreach/"{{ if eq .Section "outreach" }} class="active"{{ end }}>Outreach</a></li>
+      <li><a href="/cv/"{{ if eq .Section "cv" }} class="active"{{ end }}>CV</a></li>
+    </ul>
+  </nav>
+
+  {{ block "main" . }}{{ end }}
+
+  <footer>
+    <span class="footer-copy">merlinschaeffer.com</span>
+    <ul class="footer-nav">
+      <li><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></li>
+      <li><a href="/talks/">Talks</a></li>
+    </ul>
+  </footer>
+
+</div>
+{{ block "scripts" . }}{{ end }}
+</body>
+</html>

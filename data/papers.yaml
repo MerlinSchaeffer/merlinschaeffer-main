@@ -1,0 +1,74 @@
+- meta: "<em>American Journal of Political Science</em> &middot; 70(1) &middot; 2026"
+  title: "Correcting Misperceptions about Ethno-Racial Discrimination: The Limits of Evidence-Based Awareness Raising"
+  finding: "Informing 4,800 native-born Danes about field-experimental evidence of ethnic discrimination increases recognition of the problem — but does not translate into greater support for equal-treatment policies."
+  badge: "AJPS 2026"
+  image: "/images/papers/correcting-misperceptions.png"
+  awards: []
+  isBook: false
+
+- meta: "<em>Political Psychology</em> &middot; 46(3) &middot; 2025"
+  title: "The Integration Paradox: Does Awareness of the Extent of Ethno-Racial Discrimination Increase Reports of Discrimination?"
+  finding: "A preregistered survey experiment in Germany provides the first causal evidence for the awareness mechanism behind the integration paradox: informing immigrants about discrimination against their group raises their personal reports of being discriminated against."
+  badge: "Pol. Psych. 2025"
+  image: "/images/papers/integration-paradox.jpg"
+  awards: []
+  isBook: false
+
+- meta: "<em>American Political Science Review</em> &middot; conditionally accepted"
+  title: "When Politics Enters the Waiting Room: Far-Right Electoral Victories Exacerbate Discrimination in Access to Healthcare"
+  finding: "A field-experimental audit of 801 GP-registration requests across 252 Italian municipalities, combined with a regression discontinuity at close electoral margins, shows that West-African-accented callers face higher denial rates — a disparity that widens under far-right mayors."
+  badge: "APSR forthcoming"
+  image: ""
+  awards: []
+  isBook: false
+
+- meta: "<em>Annual Review of Political Science</em> &middot; 23 &middot; 2020"
+  title: "Ethnic Diversity and Social Trust: A Narrative and Meta-Analytical Review"
+  finding: "A meta-analysis of 1,001 estimates from 87 studies confirms a statistically significant negative relationship between ethnic diversity and social trust — strongest for trust in neighbours and at local spatial scales, and robust to covariate conditioning."
+  badge: "Ann. Rev. Pol. Sci. 2020"
+  image: "/images/papers/ethnic-diversity-social-trust.jpg"
+  awards: []
+  isBook: false
+
+- meta: "<em>American Journal of Sociology</em> &middot; 122(1) &middot; 2016"
+  title: "Contested Boundaries: Explaining Where Ethnoracial Diversity Provokes Neighborhood Conflict"
+  finding: "Based on 4.7 million 311 service requests from New York City, neighborhood conflict is highest not in the most diverse areas but at \"fuzzy boundaries\" — interstitial zones between homogeneous enclaves, identified using edge detection algorithms from computer vision."
+  badge: "AJS 2016"
+  image: "/images/papers/contested-boundaries.jpg"
+  awards:
+    - "ASA \u201cMathematical Sociology\u201d 2017"
+    - "ASA \u201cScholarship in Population\u201d 2016"
+  isBook: false
+
+- meta: "<em>American Sociological Review</em> &middot; 82(4) &middot; 2017"
+  title: "The Costs of Simplicity: Why Multilevel Models May Benefit from Accounting for Cross-Cluster Differences in the Effects of Controls"
+  finding: "Most multilevel studies in leading journals assume control variable effects are invariant across clusters — an assumption that is often implausible and that reduces the precision of estimated context effects when it fails."
+  badge: "ASR 2017"
+  image: "/images/papers/costs-of-simplicity.jpg"
+  awards: []
+  isBook: false
+
+- meta: "<em>American Journal of Sociology</em> &middot; 2026"
+  title: "Local Communities, Distant Origins: How Cultural Distance and Local Context Shape Immigrant Ethno-Religious Infrastructures"
+  finding: "Across 54 immigrant minorities in Germany, organizational density — mosques, associations, minority-owned businesses — is predicted primarily by cultural distance from the host society, not by local context, community homogeneity, or reactive group formation as prevailing theories suggest."
+  badge: "AJS 2026"
+  image: "/images/papers/local-communities.jpg"
+  awards: []
+  isBook: false
+
+- meta: "<em>European Sociological Review</em> &middot; 32(1) &middot; 2016"
+  title: "Income Advantages of Poorly Qualified Immigrant Minorities: Why School Dropouts of Turkish Origin Earn More in Germany"
+  finding: "When minority educational credentials carry less signalling power, their absence is discounted too — producing a wage floor for school dropouts of Turkish, Greek, and Italian origin that exceeds that of comparably unqualified native Germans."
+  badge: "ESR 2016"
+  image: "/images/papers/income-advantages.jpg"
+  awards:
+    - "Anatol Rapoport Prize 2016"
+  isBook: false
+
+- meta: "Routledge &middot; 2016"
+  title: "Ethnic Diversity and Social Cohesion: Immigration, Ethnic Fractionalization and Potentials for Civic Action"
+  finding: "A book-length synthesis of theory and original research, drawing on 7,500 survey respondents across German counties, examining how ethnic diversity shapes social trust, civic action, and solidarity."
+  badge: "Routledge 2016"
+  image: "/images/papers/ethnic-diversity-social-cohesion.jpg"
+  awards: []
+  isBook: true
