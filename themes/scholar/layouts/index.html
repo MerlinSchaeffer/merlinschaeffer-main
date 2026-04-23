@@ -70,7 +70,7 @@
 
 {{ define "scripts" }}
 <script>
-const POOL = {{ .Site.Data.papers | jsonify }};
+const POOL = {{ hugo.Data.papers | jsonify }};
 </script>
 <script src="/js/carousel.js"></script>
 {{ end }}

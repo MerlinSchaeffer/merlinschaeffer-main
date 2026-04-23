@@ -4,7 +4,7 @@
   <div class="page-content">
     <p>{{ .Content }}</p>
     <ul class="course-list">
-      {{ range .Site.Data.courses }}
+      {{ range hugo.Data.courses }}
       <li class="course-item">
         <div class="course-meta">
           <span class="course-badge">{{ .level }}</span>

@@ -4,7 +4,7 @@
   <div class="page-content">
     {{ .Content }}
     <ul class="talk-list">
-      {{ range .Site.Data.talks }}
+      {{ range hugo.Data.talks }}
       <li class="talk-item">
         <span class="talk-date">{{ dateFormat "Jan 2006" .date }}</span>
         <div class="talk-body">
