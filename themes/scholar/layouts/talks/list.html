@@ -3,18 +3,6 @@
   <p class="section-label">Talks &amp; Slides</p>
   <div class="page-content">
     {{ .Content }}
-    <ul class="talk-list">
-      {{ range hugo.Data.talks }}
-      <li class="talk-item">
-        <span class="talk-date">{{ dateFormat "Jan 2006" .date }}</span>
-        <div class="talk-body">
-          <p class="talk-title">{{ .title }}</p>
-          <p class="talk-event">{{ .event }}{{ if .location }} &middot; {{ .location }}{{ end }}</p>
-          {{ if .slides_url }}<a class="talk-slides" href="{{ .slides_url }}" target="_blank" rel="noopener">Slides &rarr;</a>{{ end }}
-        </div>
-      </li>
-      {{ end }}
-    </ul>
   </div>
 </section>
 {{ end }}
