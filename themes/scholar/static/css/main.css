@@ -419,45 +419,41 @@ footer {
 /* ── Talks ── */
 .talk-list { list-style: none; padding: 0; }
 .talk-item {
-  display: grid;
-  grid-template-columns: 6rem 1fr;
-  gap: 0 2rem;
-  padding: 1.25rem 0;
+  padding: 1.3rem 0;
   border-bottom: 1px solid var(--rule);
-  align-items: start;
 }
 .talk-item:first-child { border-top: 1px solid var(--rule); }
-.talk-date {
+.talk-title-link {
   font-family: var(--serif);
-  font-size: 0.82rem;
-  color: var(--light);
-  font-style: italic;
-  padding-top: 0.12rem;
-}
-.talk-title {
-  font-family: var(--serif);
-  font-size: 1.02rem;
+  font-size: 1rem;
   font-weight: 500;
   color: var(--black);
-  margin-bottom: 0.2rem;
+  text-decoration: none;
+  display: inline;
 }
-.talk-event { font-size: 0.85rem; color: var(--mid); line-height: 1.6; }
-.talk-slides {
+.talk-title-link::after {
+  content: ' \2197';
+  font-size: 0.72em;
+  color: var(--light);
+  font-style: normal;
+}
+.talk-title-link:hover { color: var(--olive); }
+.talk-title-link:hover::after { color: var(--olive); }
+.talk-venues {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.6rem;
+}
+.talk-venue-pill {
   font-family: var(--serif);
   font-size: 0.75rem;
-  font-weight: 500;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  text-decoration: none;
   color: var(--mid);
   border: 1px solid var(--rule);
-  padding: 0.2rem 0.5rem;
   border-radius: 1px;
-  display: inline-block;
-  margin-top: 0.45rem;
-  transition: border-color 0.15s, color 0.15s;
+  padding: 0.13rem 0.55rem;
+  line-height: 1.6;
 }
-.talk-slides:hover { border-color: var(--olive); color: var(--olive); }
 
 /* ── CV page ── */
 .cv-download {
@@ -501,7 +497,5 @@ footer {
   .paper-image { height: 120px; }
   .paper-card-body { padding: 1.2rem 1.4rem 0; }
   .paper-footer { padding: 0.9rem 1.4rem 1.2rem; }
-  .talk-item { grid-template-columns: 1fr; gap: 0.2rem; }
-  .talk-date { font-size: 0.78rem; padding-top: 0; }
-  .pub-item { grid-template-columns: 1.8rem 1fr; }
+.pub-item { grid-template-columns: 1.8rem 1fr; }
 }
