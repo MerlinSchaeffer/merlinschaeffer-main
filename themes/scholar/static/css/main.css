@@ -439,6 +439,12 @@ footer {
 }
 .talk-title-link:hover { color: var(--olive); }
 .talk-title-link:hover::after { color: var(--olive); }
+.talk-abstract {
+  font-size: 0.88rem;
+  color: var(--mid);
+  line-height: 1.72;
+  margin-top: 0.55rem;
+}
 .talk-venues {
   display: flex;
   flex-wrap: wrap;

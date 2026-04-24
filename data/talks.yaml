@@ -1,28 +1,33 @@
 - title: "The Sociology of Misperceived Discrimination"
   url: "https://merlin-talks.netlify.app/inaugural/konstanz26"
   venues:
-    - "In_equality Conference, Konstanz '26"
+    - "Keynote: In_Equality Conference, Constance '26"
     - "King's College London '25"
-    - "Uni Utrecht, Migration & Societal Change '25"
+    - "Keynote: Uni Utrecht, Migration & Societal Change '25"
     - "CEPDISC '25"
     - "Mannheim University"
     - "Aarhus University"
     - "Inaugural Lecture, Copenhagen"
-
-- title: "Contested Discrimination"
-  url: "https://merlin-talks.netlify.app/contested/retreat"
-  venues:
-    - "University of Copenhagen Retreat"
+  abstract: >-
+    How accurately do minority and majority group members perceive the extent of ethnic discrimination in society?
+    Theoretical and empirical scholarship on this question is rare and arguably underdeveloped.
+    This presentation develops three experimental approaches to study misperceptions.
+    A survey experiment measures citizens' beliefs about the results of field experiments testing for discrimination.
+    Trust games measure expected and actual name-based ethnic discrimination on the same scale, allowing direct comparison.
+    A follow-up experiment then presents participants with randomly assigned payoff comparisons to study whether they
+    correctly perceive disparities as reflecting intentional discrimination or as an instance of bad luck.
 
 - title: "Unveiling the Price of Green"
   url: "https://merlin-talks.netlify.app/green-justice/leipzig"
   venues:
     - "Annual Conference in Experimental Sociology, Leipzig '25"
-
-- title: "Einwanderung und sozialer Zusammenhalt"
-  url: "https://merlin-talks.netlify.app/public-talks/zurich"
-  venues:
-    - "Zürich 2024"
+  abstract: >-
+    How do misperceptions about socio-ecological inequality shape public support for climate policy?
+    This study uses a survey experiment in which respondents estimate the relative burden of green investments
+    on lower-income families compared to wealthier households. We hypothesize that correcting misperceptions —
+    by providing factual information about actual income and emissions differences — will increase support for
+    redistributive climate policies. When respondents sense that some groups bear a disproportionate burden,
+    they are more likely to back ambitious initiatives if those initiatives include redistribution.
 
 - title: "Far-right Electoral Success Exacerbates Administrative Discrimination Against Minorities"
   url: "https://merlin-talks.netlify.app/it-healthcare-chauvi/crete"
@@ -32,6 +37,15 @@
     - "CEPDISC '22, Conference on Discrimination"
     - "EUI"
     - "Sciences Po, Paris"
+  abstract: >-
+    Prior research links far-right party victories to increased racism and hate crimes, raising concerns about
+    their potential impact on public service access for minorities. This study investigates whether such victories
+    influence public administrators — expected to be impartial — to discriminate against minorities accessing a
+    general medical practitioner. Using a novel Differences-in-Regression-Discontinuities approach, we conducted
+    a field experiment in Italy in which individuals with native-Italian and West-African accents contacted
+    municipalities near the electoral threshold for far-right mayors. Compared to native-Italian callers,
+    individuals with West-African accents faced significantly closer scrutiny and higher denial rates, a disparity
+    amplified at the electoral threshold for far-right victories.
 
 - title: "The Limits of Evidence-Based Awareness Raising to Promote Support for Equal-Treatment Policies"
   url: "https://merlin-talks.netlify.app/majority-misperceptions/jems"
@@ -44,20 +58,14 @@
     - "VIVE, Copenhagen"
     - "Max-Weber-Institute, Heidelberg University"
     - "WIM Research Event"
-
-- title: "Misperceived Discrimination"
-  url: "https://merlin-talks.netlify.app/misperceived-discrimination/eui-arnout"
-  venues:
-    - "CEPDISC '22, Conference on Discrimination"
-    - "ACES 2022, Utrecht University"
-    - "International Conference on Social Dilemmas, Copenhagen"
-    - "In_Equality Colloquium, Konstanz"
-    - "14th Annual INAS Conference"
-    - "Colloquium for Analytical Sociology, EUI"
-
-- title: "The Integration Paradox"
-  url: "https://merlin-talks.netlify.app/apax/nuffield"
-  venues:
-    - "Nuffield College, Oxford"
-    - "SOFI, Stockholm University"
-    - "Department Conference, Copenhagen"
+  abstract: >-
+    The disadvantages experienced by minorities and the lack of societal remedies for them are widely believed
+    to be partly attributable to mainstream-majority citizens' limited awareness of minority hardships.
+    This study investigates whether informing citizens about field-experimental evidence of ethno-racial
+    discrimination increases their recognition of the issue and support for equal-treatment policies.
+    The results indicate that citizens are generally aware of discrimination and even tend to overperceive its
+    extent. Communicating field-experimental results corrects and converges misperceptions but does not change
+    recognition of the problem or support for equal-treatment policies, regardless of how the evidence is framed.
+    These findings suggest evidence-based awareness campaigns have limited immediate success in promoting
+    policy support: citizens may donate to acknowledge minority hardships but hesitate to endorse policies
+    that could affect their group's privileged position.

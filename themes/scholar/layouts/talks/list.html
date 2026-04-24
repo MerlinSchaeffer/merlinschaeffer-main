@@ -2,11 +2,13 @@
 <section class="inner-page">
   <p class="section-label">Talks &amp; Slides</p>
   <div class="page-content">
-    {{ with .Content }}<div>{{ . }}</div>{{ end }}
     <ul class="talk-list">
       {{ range hugo.Data.talks }}
       <li class="talk-item">
         <a class="talk-title-link" href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
+        {{ if .abstract }}
+        <p class="talk-abstract">{{ .abstract }}</p>
+        {{ end }}
         {{ if .venues }}
         <div class="talk-venues">
           {{ range .venues }}<span class="talk-venue-pill">{{ . }}</span>{{ end }}
