@@ -90,6 +90,7 @@ nav {
 .intro-photo img {
   width: 100%;
   max-width: 260px;
+  height: auto;
   display: block;
   filter: grayscale(15%) contrast(1.02);
   border-radius: 2px;

@@ -67,11 +67,37 @@ function goTo(idx) {
   elapsed = 0; lastTick = null; fill.style.width = '0%';
 }
 
+// ── Arrow buttons ──
 document.getElementById('prev').addEventListener('click', () => goTo(cur - 1));
 document.getElementById('next').addEventListener('click', () => goTo(cur + 1));
+
+// ── Mouse hover pause ──
 document.getElementById('carousel').addEventListener('mouseenter', () => { paused = true; });
 document.getElementById('carousel').addEventListener('mouseleave', () => { paused = false; lastTick = null; });
 
+// ── Touch swipe ──
+let touchStartX = 0;
+let touchStartY = 0;
+
+document.getElementById('carousel').addEventListener('touchstart', e => {
+  touchStartX = e.touches[0].clientX;
+  touchStartY = e.touches[0].clientY;
+  paused = true;
+}, { passive: true });
+
+document.getElementById('carousel').addEventListener('touchend', e => {
+  const dx = e.changedTouches[0].clientX - touchStartX;
+  const dy = e.changedTouches[0].clientY - touchStartY;
+  // Only fire if horizontal swipe dominates over vertical scroll
+  if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 40) {
+    if (dx < 0) goTo(cur + 1); // swipe left  → next
+    else         goTo(cur - 1); // swipe right → prev
+  }
+  paused = false;
+  lastTick = null;
+}, { passive: true });
+
+// ── Auto-advance ──
 requestAnimationFrame(function tick(ts) {
   if (!paused) {
     if (lastTick === null) lastTick = ts;
