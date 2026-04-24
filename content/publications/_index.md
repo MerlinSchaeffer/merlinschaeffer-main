@@ -330,4 +330,3 @@ title: "Publications"
 
 </ul>
 
-<p style="margin-top:2.5rem; font-family:var(--serif); font-size:0.82rem; color:var(--light);">★ Flagship publications</p>

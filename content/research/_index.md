@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-My research asks how ethno-racial diversity, immigrant integration, and the struggle over discrimination shape solidarity, trust, and political conflict in contemporary democracies. I pursue these questions by theorizing the social mechanisms that link individual cognition and behavior to macro-level outcomes, and by testing them through survey, field, and behavioral experiments. A commitment to causal inference and comparative research design runs across all three strands. Earlier methodological work — on the conditions under which multilevel models produce reliable estimates of cross-level interaction effects, and on improved likelihood-based methods for small-cluster inference — appeared in the *American Sociological Review*, *European Sociological Review*, and *British Journal of Political Science*.
+My research asks how ethno-racial diversity, immigrant integration, and the struggle over discrimination shape solidarity, trust, and political conflict in contemporary democracies. Three strands address these questions: the causes and contestation of ethno-racial discrimination; the consequences of ethnic diversity and immigrant integration for social cohesion; and the comparative methods and causal inference strategies needed to answer them credibly.
 
 ## Discrimination — Causes, Misperceptions, and Contestation
 
@@ -10,13 +10,13 @@ Why do contemporary democracies struggle so persistently with ethno-racial discr
 
 **Key publications**
 
-- Schaeffer, Krakowski & Olsen (2026). "Correcting Misperceptions about Ethno-Racial Discrimination: The Limits of Evidence-Based Awareness Raising." *American Journal of Political Science* 70(1): 54–75.
+- Schaeffer, Höhne & Teney (2016). "Income Advantages of Poorly Qualified Immigrant Minorities: Why School Dropouts of Turkish Origin Earn More in Germany." *European Sociological Review* 32(1): 167–180. ★ Anatol Rapoport Prize 2016.
 - Schaeffer & Kas (2025). "The Integration Paradox: Does Awareness of the Extent of Ethno-Racial Discrimination Increase Reports of Discrimination?" *Political Psychology* 46(3): 623–636.
-- Schaeffer, Romarri, Rosenberg & Krakowski (conditionally accepted). "When Politics Enters the Waiting Room: Far-Right Electoral Victories Exacerbate Discrimination in Access to Healthcare." *American Political Science Review.*
+- Schaeffer, Krakowski & Olsen (2026). "Correcting Misperceptions about Ethno-Racial Discrimination: The Limits of Evidence-Based Awareness Raising." *American Journal of Political Science* 70(1): 54–75.
 
 *Current working paper*: "Contested Discrimination: A Theory of the Societal Struggle over Definition and Prevalence." Under review.
 
-## Immigrant Integration and Social Cohesion
+## Ethnic Diversity, Immigrant Integration, and Social Cohesion
 
 How does immigrant integration transform the societies that receive it — and how does it affect the immigrants themselves? My research on this question treats integration as both a social process and an outcome in its own right. On one side, I have studied how the scale and character of ethnic diversity shapes solidarity, social trust, and the willingness of majority populations to cooperate across group boundaries — drawing on comparative survey data, neighborhood-level field experiments, and meta-analytic synthesis across dozens of studies. A recurrent finding is that the consequences of diversity depend critically on how it is measured, at what spatial scale, and in what institutional context. On the other side, I study integration from the perspective of immigrants and their descendants: how residential exposure to coethnics, access to ethno-religious community infrastructures — mosques, associations, minority-owned businesses — and the experience of boundary crossing shape migrants' subjective well-being and sense of belonging. Across both sides of this research, the micro-level mechanisms through which individual experiences and interactions aggregate into macro-level patterns of cohesion or conflict remain the central theoretical concern.
 
