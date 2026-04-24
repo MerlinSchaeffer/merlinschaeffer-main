@@ -3,13 +3,29 @@
   <p class="section-label">Teaching</p>
   <div class="page-content">
     <p>{{ .Content }}</p>
+
+    <p class="course-group-label">Current</p>
     <ul class="course-list">
-      {{ range hugo.Data.courses }}
+      {{ range where hugo.Data.courses "status" "current" }}
       <li class="course-item">
         <div class="course-meta">
           <span class="course-badge">{{ .level }}</span>
           <span class="course-badge">{{ .language }}</span>
-          <span class="course-badge">{{ .term }}</span>
+        </div>
+        <a class="course-title" href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
+        <p class="course-desc">{{ .description }}</p>
+        <p class="course-inst">{{ .institution }}</p>
+      </li>
+      {{ end }}
+    </ul>
+
+    <p class="course-group-label">Former</p>
+    <ul class="course-list">
+      {{ range where hugo.Data.courses "status" "former" }}
+      <li class="course-item">
+        <div class="course-meta">
+          <span class="course-badge">{{ .level }}</span>
+          <span class="course-badge">{{ .language }}</span>
         </div>
         <a class="course-title" href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
         <p class="course-desc">{{ .description }}</p>

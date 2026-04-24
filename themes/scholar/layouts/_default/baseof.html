@@ -12,8 +12,11 @@
 <body>
 <div class="site">
 
-  <nav>
+  <nav id="site-nav">
     <a href="/" class="nav-name">{{ .Site.Params.name }}</a>
+    <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
     <ul class="nav-links">
       <li><a href="/research/"{{ if eq .Section "research" }} class="active"{{ end }}>Research</a></li>
       <li><a href="/publications/"{{ if eq .Section "publications" }} class="active"{{ end }}>Publications</a></li>
@@ -35,5 +38,12 @@
 
 </div>
 {{ block "scripts" . }}{{ end }}
+<script>
+document.querySelector('.nav-toggle').addEventListener('click', function () {
+  const nav = document.getElementById('site-nav');
+  const open = nav.classList.toggle('nav-open');
+  this.setAttribute('aria-expanded', open);
+});
+</script>
 </body>
 </html>
