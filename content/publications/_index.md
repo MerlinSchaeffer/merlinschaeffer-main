@@ -21,7 +21,7 @@ title: "Publications"
 <li class="pub-item">
   <span class="pub-num">32</span>
   <span class="pub-body">
-    <span class="pub-flag">★</span>Wiedner, Jonas, <strong>Merlin Schaeffer</strong>, Sarah Carol, and Susanne Böller (2026). "Local Communities, Distant Origins: How Cultural Distance and Local Context Shape Immigrant Ethno-Religious Infrastructures." <em>American Journal of Sociology.</em>
+    Wiedner, Jonas, <strong>Merlin Schaeffer</strong>, Sarah Carol, and Susanne Böller (2026). "Local Communities, Distant Origins: How Cultural Distance and Local Context Shape Immigrant Ethno-Religious Infrastructures." <em>American Journal of Sociology.</em>
     <a class="pub-link" href="https://doi.org/10.1086/739687" target="_blank" rel="noopener">DOI</a>
   </span>
 </li>
@@ -51,7 +51,7 @@ title: "Publications"
 <li class="pub-item">
   <span class="pub-num">28</span>
   <span class="pub-body">
-    <span class="pub-flag">★</span><strong>Schaeffer, Merlin</strong>, Krzysztof Krakowski, and Asmus Olsen (2024). "Correcting Misperceptions about Ethno-Racial Discrimination: The Limits of Evidence-Based Awareness Raising to Promote Support for Equal-Treatment Policies." <em>American Journal of Political Science</em> 70(1): 54–75.
+    <strong>Schaeffer, Merlin</strong>, Krzysztof Krakowski, and Asmus Olsen (2024). "Correcting Misperceptions about Ethno-Racial Discrimination: The Limits of Evidence-Based Awareness Raising to Promote Support for Equal-Treatment Policies." <em>American Journal of Political Science</em> 70(1): 54–75.
     <a class="pub-link" href="https://doi.org/10.1111/ajps.12933" target="_blank" rel="noopener">DOI</a>
   </span>
 </li>
@@ -143,7 +143,7 @@ title: "Publications"
 <li class="pub-item">
   <span class="pub-num">15</span>
   <span class="pub-body">
-    <span class="pub-flag">★</span>Dinesen, Peter, <strong>Merlin Schaeffer</strong>, and Kim Sønderskov (2020). "Ethnic Diversity and Social Trust: A Narrative and Meta-Analytical Review." <em>Annual Review of Political Science</em> 23: 441–465.
+    Dinesen, Peter, <strong>Merlin Schaeffer</strong>, and Kim Sønderskov (2020). "Ethnic Diversity and Social Trust: A Narrative and Meta-Analytical Review." <em>Annual Review of Political Science</em> 23: 441–465.
   </span>
 </li>
 
@@ -185,14 +185,14 @@ title: "Publications"
 <li class="pub-item">
   <span class="pub-num">9</span>
   <span class="pub-body">
-    <span class="pub-flag">★</span>Heisig, Jan Paul, <strong>Merlin Schaeffer</strong>, and Johannes Giesecke (2017). "The Costs of Simplicity: Why Multilevel Models May Benefit from Accounting for Cross-Cluster Differences in the Effects of Controls." <em>American Sociological Review</em> 82(4): 796–827.
+    Heisig, Jan Paul, <strong>Merlin Schaeffer</strong>, and Johannes Giesecke (2017). "The Costs of Simplicity: Why Multilevel Models May Benefit from Accounting for Cross-Cluster Differences in the Effects of Controls." <em>American Sociological Review</em> 82(4): 796–827.
   </span>
 </li>
 
 <li class="pub-item">
   <span class="pub-num">8</span>
   <span class="pub-body">
-    <span class="pub-flag">★</span>Legewie, Joscha and <strong>Merlin Schaeffer</strong> (2016). "Contested Boundaries: Explaining Where Ethnoracial Diversity Provokes Neighborhood Conflict." <em>American Journal of Sociology</em> 122(1): 125–161.
+    Legewie, Joscha and <strong>Merlin Schaeffer</strong> (2016). "Contested Boundaries: Explaining Where Ethnoracial Diversity Provokes Neighborhood Conflict." <em>American Journal of Sociology</em> 122(1): 125–161.
     <span class="pub-award">ASA Mathematical Sociology Award 2017 &middot; ASA Distinguished Contribution to Scholarship in Population 2016</span>
   </span>
 </li>
