@@ -10,11 +10,9 @@ Why do contemporary democracies struggle so persistently with ethno-racial discr
 
 **Key publications**
 
-- Schaeffer, Höhne & Teney (2016). "Income Advantages of Poorly Qualified Immigrant Minorities: Why School Dropouts of Turkish Origin Earn More in Germany." *European Sociological Review* 32(1): 167–180. ★ Anatol Rapoport Prize 2016.
-- Schaeffer & Kas (2025). "The Integration Paradox: Does Awareness of the Extent of Ethno-Racial Discrimination Increase Reports of Discrimination?" *Political Psychology* 46(3): 623–636.
 - Schaeffer, Krakowski & Olsen (2026). "Correcting Misperceptions about Ethno-Racial Discrimination: The Limits of Evidence-Based Awareness Raising." *American Journal of Political Science* 70(1): 54–75.
-
-*Current working paper*: "Contested Discrimination: A Theory of the Societal Struggle over Definition and Prevalence." Under review.
+- Schaeffer & Kas (2025). "The Integration Paradox: Does Awareness of the Extent of Ethno-Racial Discrimination Increase Reports of Discrimination?" *Political Psychology* 46(3): 623–636.
+- Schaeffer, Höhne & Teney (2016). "Income Advantages of Poorly Qualified Immigrant Minorities: Why School Dropouts of Turkish Origin Earn More in Germany." *European Sociological Review* 32(1): 167–180.
 
 ## Ethnic Diversity, Immigrant Integration, and Social Cohesion
 
@@ -22,9 +20,9 @@ How does immigrant integration transform the societies that receive it — and h
 
 **Key publications**
 
-- Legewie & Schaeffer (2016). "Contested Boundaries: Explaining Where Ethnoracial Diversity Provokes Neighborhood Conflict." *American Journal of Sociology* 122(1): 125–161. ★ ASA Mathematical Sociology Award 2017; ASA Distinguished Contribution to Scholarship in Population 2016.
-- Dinesen, Schaeffer & Sønderskov (2020). "Ethnic Diversity and Social Trust: A Narrative and Meta-Analytical Review." *Annual Review of Political Science* 23: 441–465.
 - Wiedner, Schaeffer, Carol & Böller (2026). "Local Communities, Distant Origins: How Cultural Distance and Local Context Shape Immigrant Ethno-Religious Infrastructures." *American Journal of Sociology.*
+- Dinesen, Schaeffer & Sønderskov (2020). "Ethnic Diversity and Social Trust: A Narrative and Meta-Analytical Review." *Annual Review of Political Science* 23: 441–465.
+- Legewie & Schaeffer (2016). "Contested Boundaries: Explaining Where Ethnoracial Diversity Provokes Neighborhood Conflict." *American Journal of Sociology* 122(1): 125–161.
 
 ## Comparative Methods and Causal Inference
 
@@ -32,6 +30,6 @@ Establishing causal claims from observational data in comparative social researc
 
 **Key publications**
 
-- Heisig, Schaeffer & Giesecke (2017). "The Costs of Simplicity: Why Multilevel Models May Benefit from Accounting for Cross-Cluster Differences in the Effects of Controls." *American Sociological Review* 82(4): 796–827.
-- Heisig & Schaeffer (2019). "Why You Should Always Include a Random Slope for the Lower-Level Variable Involved in a Cross-Level Interaction." *European Sociological Review* 35(2): 258–279. ★ Runner-up, Best ESR Article 2019.
 - Elff, Heisig, Schaeffer & Shikano (2021). "Multilevel Analysis with Few Clusters: Improving Likelihood-Based Methods to Provide Unbiased Estimates and Accurate Inference." *British Journal of Political Science* 51(1): 412–426.
+- Heisig & Schaeffer (2019). "Why You Should Always Include a Random Slope for the Lower-Level Variable Involved in a Cross-Level Interaction." *European Sociological Review* 35(2): 258–279.
+- Heisig, Schaeffer & Giesecke (2017). "The Costs of Simplicity: Why Multilevel Models May Benefit from Accounting for Cross-Cluster Differences in the Effects of Controls." *American Sociological Review* 82(4): 796–827.
