@@ -363,6 +363,8 @@ footer {
   margin-top: 0.25rem;
 }
 .pub-link {
+  display: inline-block;
+  vertical-align: middle;
   font-family: var(--serif);
   font-size: 0.75rem;
   font-weight: 500;
@@ -378,6 +380,8 @@ footer {
   transition: border-color 0.15s, color 0.15s;
 }
 .pub-link:hover { border-color: var(--olive); color: var(--olive); }
+.pub-link--oa { color: var(--olive); border-color: var(--olive); }
+.pub-link--oa:hover { background: var(--olive); color: var(--bg); }
 
 /* ── Teaching ── */
 .course-list { list-style: none; padding: 0; }

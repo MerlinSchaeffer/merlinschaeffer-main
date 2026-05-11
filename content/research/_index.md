@@ -20,7 +20,7 @@ How does immigrant integration transform the societies that receive it — and h
 
 **Key publications**
 
-- Wiedner, Schaeffer, Carol & Böller (2026). "Local Communities, Distant Origins: How Cultural Distance and Local Context Shape Immigrant Ethno-Religious Infrastructures." *American Journal of Sociology.*
+- Wiedner, Schaeffer, Carol & Böller (2026). "Local Communities, Distant Origins: How Cultural Distance and Local Context Shape Immigrant Ethnoreligious Infrastructures." *American Journal of Sociology* 131 (5): 1182–221.
 - Dinesen, Schaeffer & Sønderskov (2020). "Ethnic Diversity and Social Trust: A Narrative and Meta-Analytical Review." *Annual Review of Political Science* 23: 441–465.
 - Legewie & Schaeffer (2016). "Contested Boundaries: Explaining Where Ethnoracial Diversity Provokes Neighborhood Conflict." *American Journal of Sociology* 122(1): 125–161.
 
