@@ -380,8 +380,7 @@ footer {
   transition: border-color 0.15s, color 0.15s;
 }
 .pub-link:hover { border-color: var(--olive); color: var(--olive); }
-.pub-link--oa { color: var(--olive); border-color: var(--olive); }
-.pub-link--oa:hover { background: var(--olive); color: var(--bg); }
+.pub-oa { font-size: 0.82rem; color: var(--light); margin-left: 0.3em; }
 
 /* ── Teaching ── */
 .course-list { list-style: none; padding: 0; }
