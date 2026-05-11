@@ -2,7 +2,7 @@
 title: "Outreach"
 ---
 
-<h2>Interviews</h2>
+<h2>Expert Interviews</h2>
 
 <h3>Immigrant Integration and Experiences of Ethnic Discrimination in Denmark</h3>
 <ul class="outreach-list">
