@@ -12,7 +12,7 @@ title: "Outreach"
 </li>
 <li class="outreach-item">
   <span class="outreach-year">2025</span>
-  <span>"The ghettos must go." <em>Die Welt</em>.</span>
+  <span>„Die Ghettos müssen weg" – Wie Dänemarks harte Migrationspolitik in der Praxis funktioniert. <em>Die Welt</em>.</span>
 </li>
 <li class="outreach-item">
   <span class="outreach-year">2023</span>
