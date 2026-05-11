@@ -4,15 +4,31 @@ title: "Outreach"
 
 <h2>Interviews</h2>
 
-<h3>Experiences of Ethnic Discrimination in Denmark</h3>
+<h3>Immigrant Integration and Experiences of Ethnic Discrimination in Denmark</h3>
 <ul class="outreach-list">
 <li class="outreach-item">
   <span class="outreach-year">2026</span>
   <span>"Unge er i tvivl: Jeg ved ikke, om det er min ret at dø for Danmark." <em>TV2</em>.</span>
 </li>
 <li class="outreach-item">
+  <span class="outreach-year">2025</span>
+  <span>"The ghettos must go." <em>Die Welt</em>.</span>
+</li>
+<li class="outreach-item">
   <span class="outreach-year">2023</span>
   <span>»Stor undersøgelse afdækker »bekymrende« meget diskrimination i Danmark.« <em>Politiken</em>.</span>
+</li>
+<li class="outreach-item">
+  <span class="outreach-year">2022</span>
+  <span>"Integration mit der Abrissbirne — wie Dänemark seine ›Gettos‹ loswerden will." <em>Die Welt</em>.</span>
+</li>
+<li class="outreach-item">
+  <span class="outreach-year">2021</span>
+  <span>"Forsvaret er stort set kun en organisation for etniske danskere." <em>Politiken</em>.</span>
+</li>
+<li class="outreach-item">
+  <span class="outreach-year"></span>
+  <span>"Denmark evicts ›ghetto‹ residents to integrate them. Will it help?" <em>The Christian Science Monitor</em>.</span>
 </li>
 </ul>
 
@@ -68,53 +84,17 @@ title: "Outreach"
 </li>
 </ul>
 
-<h3>Ethno-Religious Neighborhood Infrastructures and Immigrant Well-Being</h3>
-<ul class="outreach-list">
-<li class="outreach-item">
-  <span class="outreach-year">2022</span>
-  <span>"Integration mit der Abrissbirne — wie Dänemark seine ›Gettos‹ loswerden will." <em>Die Welt</em>.</span>
-</li>
-<li class="outreach-item">
-  <span class="outreach-year">2021</span>
-  <span>"Forsvaret er stort set kun en organisation for etniske danskere." <em>Politiken</em>.</span>
-</li>
-<li class="outreach-item">
-  <span class="outreach-year"></span>
-  <span>"Denmark evicts ›ghetto‹ residents to integrate them. Will it help?" <em>The Christian Science Monitor</em>.</span>
-</li>
-</ul>
-
 <h2>Press Coverage</h2>
 
-<h3>Ethno-Religious Neighborhood Infrastructures and Immigrant Well-Being</h3>
+<h3><a href="https://doi.org/10.1080/1369183X.2024.2425213" target="_blank" rel="noopener">Refugees' Residential Choices</a></h3>
 <ul class="outreach-list">
 <li class="outreach-item">
   <span class="outreach-year">2025</span>
-  <span>"The ghettos must go." <em>Die Welt</em>.</span>
-</li>
-<li class="outreach-item">
-  <span class="outreach-year">2022</span>
-  <span>"Auf die Infrastrukturen kommt es an." <em>Kooperationsverbund gesundheitliche Chancengleichheit</em>.</span>
+  <span><em>Berliner Zeitung</em>.</span>
 </li>
 <li class="outreach-item">
   <span class="outreach-year"></span>
-  <span>"Der Wert der Nachbarschaft." <em>WZB-Mitteilungen</em>.</span>
-</li>
-<li class="outreach-item">
-  <span class="outreach-year">2021</span>
-  <span>"Gebetshäuser, Geschäfte, Vereine. Eine Berliner Geografie ethno-religiöser Infrastrukturen." <em>WZB-Mitteilungen</em>.</span>
-</li>
-</ul>
-
-<h3>Refugees' Residential Choices</h3>
-<ul class="outreach-list">
-<li class="outreach-item">
-  <span class="outreach-year">2025</span>
-  <span>"Zuzug in wirtschaftlich schwache Städte." <em>Berliner Zeitung</em>.</span>
-</li>
-<li class="outreach-item">
-  <span class="outreach-year"></span>
-  <span>"Geflüchtete ziehen häufig in Ruhrgebietsstädte." <em>Rheinische Post</em>.</span>
+  <span><em>Rheinische Post</em>.</span>
 </li>
 <li class="outreach-item">
   <span class="outreach-year"></span>
@@ -126,19 +106,35 @@ title: "Outreach"
 </li>
 </ul>
 
-<h3>Experiences of Ethnic Discrimination in Denmark</h3>
+<h3><a href="https://doi.org/10.1177/01979183231170809" target="_blank" rel="noopener">Experiences of Ethnic Discrimination in Denmark</a></h3>
 <ul class="outreach-list">
 <li class="outreach-item">
   <span class="outreach-year">2023</span>
-  <span>"Well-educated immigrants report more discrimination." <em>CPH Post</em>.</span>
+  <span><em>CPH Post</em>.</span>
 </li>
 </ul>
 
-<h3>Ethnic Diversity and Social Trust</h3>
+<h3><a href="https://doi.org/10.1177/00420980211066412" target="_blank" rel="noopener">Ethno-Religious Neighborhood Infrastructures and Immigrant Well-Being</a></h3>
+<ul class="outreach-list">
+<li class="outreach-item">
+  <span class="outreach-year">2022</span>
+  <span><em>Kooperationsverbund gesundheitliche Chancengleichheit</em>.</span>
+</li>
+<li class="outreach-item">
+  <span class="outreach-year"></span>
+  <span><em>WZB-Mitteilungen</em>.</span>
+</li>
+<li class="outreach-item">
+  <span class="outreach-year">2021</span>
+  <span><em>WZB-Mitteilungen</em>.</span>
+</li>
+</ul>
+
+<h3><a href="https://doi.org/10.1146/annurev-polisci-052918-020708" target="_blank" rel="noopener">Ethnic Diversity and Social Trust</a></h3>
 <ul class="outreach-list">
 <li class="outreach-item">
   <span class="outreach-year">2020</span>
-  <span>"The great longing." <em>Die Welt</em>.</span>
+  <span><em>Die Welt</em>.</span>
 </li>
 <li class="outreach-item">
   <span class="outreach-year"></span>
@@ -154,11 +150,11 @@ title: "Outreach"
 </li>
 </ul>
 
-<h3>Where Neighborhood Conflict Emerges at Ethnoracial Boundaries</h3>
+<h3><a href="https://doi.org/10.1086/686942" target="_blank" rel="noopener">Where Neighborhood Conflict Emerges at Ethnoracial Boundaries</a></h3>
 <ul class="outreach-list">
 <li class="outreach-item">
   <span class="outreach-year">2016</span>
-  <span>"Unscharfer Grenzverlauf als Zündstoff." <em>Neue Zürcher Zeitung</em>.</span>
+  <span><em>Neue Zürcher Zeitung</em>.</span>
 </li>
 <li class="outreach-item">
   <span class="outreach-year"></span>
@@ -186,7 +182,7 @@ title: "Outreach"
 </li>
 </ul>
 
-<h3>Income Advantages of Less-Qualified Persons of Immigrant Origin</h3>
+<h3><a href="https://doi.org/10.1093/esr/jcv091" target="_blank" rel="noopener">Income Advantages of Less-Qualified Persons of Immigrant Origin</a></h3>
 <ul class="outreach-list">
 <li class="outreach-item">
   <span class="outreach-year">2016</span>
@@ -206,11 +202,11 @@ title: "Outreach"
 </li>
 </ul>
 
-<h3>Attribution of Neighbourhood Problems</h3>
+<h3><a href="https://doi.org/10.1080/01419870.2011.644311" target="_blank" rel="noopener">Attribution of Neighbourhood Problems</a></h3>
 <ul class="outreach-list">
 <li class="outreach-item">
   <span class="outreach-year">2012</span>
-  <span>"Politik Kompakt: Wer stört den Frieden in der Nachbarschaft?" <em>Die Welt</em>.</span>
+  <span><em>Die Welt</em>.</span>
 </li>
 <li class="outreach-item">
   <span class="outreach-year"></span>
