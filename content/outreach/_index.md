@@ -94,22 +94,6 @@ title: "Outreach"
 </li>
 </ul>
 
-<h3>Ethnic Diversity and Social Trust</h3>
-<ul class="outreach-list">
-<li class="outreach-item">
-  <span class="outreach-year">2020</span>
-  <span><em>Merion West</em>.</span>
-</li>
-<li class="outreach-item">
-  <span class="outreach-year">2019</span>
-  <span><em>Dagbladet Information</em>.</span>
-</li>
-<li class="outreach-item">
-  <span class="outreach-year"></span>
-  <span><em>Berlingske</em>.</span>
-</li>
-</ul>
-
 <h3>Ethno-Religious Neighborhood Infrastructures and Immigrant Well-Being</h3>
 <ul class="outreach-list">
 <li class="outreach-item">
@@ -126,15 +110,19 @@ title: "Outreach"
 </li>
 </ul>
 
-<h3>Attribution of Neighbourhood Problems</h3>
+<h3>Ethnic Diversity and Social Trust</h3>
 <ul class="outreach-list">
 <li class="outreach-item">
-  <span class="outreach-year">2012</span>
-  <span><em>Der Tagesspiegel</em>.</span>
+  <span class="outreach-year">2020</span>
+  <span><em>Merion West</em>.</span>
+</li>
+<li class="outreach-item">
+  <span class="outreach-year">2019</span>
+  <span><em>Dagbladet Information</em>.</span>
 </li>
 <li class="outreach-item">
   <span class="outreach-year"></span>
-  <span><em>RBB Kulturradio</em>.</span>
+  <span><em>Berlingske</em>.</span>
 </li>
 </ul>
 
@@ -183,5 +171,17 @@ title: "Outreach"
 <li class="outreach-item">
   <span class="outreach-year"></span>
   <span><em>Phys Org</em>.</span>
+</li>
+</ul>
+
+<h3>Attribution of Neighbourhood Problems</h3>
+<ul class="outreach-list">
+<li class="outreach-item">
+  <span class="outreach-year">2012</span>
+  <span><em>Der Tagesspiegel</em>.</span>
+</li>
+<li class="outreach-item">
+  <span class="outreach-year"></span>
+  <span><em>RBB Kulturradio</em>.</span>
 </li>
 </ul>
