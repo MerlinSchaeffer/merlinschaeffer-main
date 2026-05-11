@@ -61,7 +61,7 @@ title: "Publications"
   <span class="pub-num">27</span>
   <span class="pub-body">
     Wiedner, Jonas &amp; <strong>Merlin Schaeffer</strong> (2025). <a href="https://doi.org/10.1080/1369183X.2024.2425213" target="_blank" rel="noopener">"Spatial Overlap: Trade-offs in Refugees' Residential Choices."</a> <em>Journal of Ethnic and Migration Studies</em> 51(5): 1075–1097.
-    <a class="pub-link pub-link--wp" href="https://doi.org/10.31235/osf.io/rnzbc" target="_blank" rel="noopener">Link to Pre-Print</a>
+    <a class="pub-preprint" href="https://doi.org/10.31235/osf.io/rnzbc" target="_blank" rel="noopener">→ Link to Pre-Print</a>
   </span>
 </li>
 
@@ -77,7 +77,7 @@ title: "Publications"
   <span class="pub-num">25</span>
   <span class="pub-body">
     <strong>Schaeffer, Merlin</strong> and Judith Kas (2024). <a href="https://doi.org/10.1177/01979183231170809" target="_blank" rel="noopener">"The Integration Paradox: A Review and Meta-Analysis of the Complex Relationship Between Integration and Reports of Discrimination."</a> <em>International Migration Review</em> 58(3): 1384–1409.
-    <a class="pub-link pub-link--wp" href="https://www.econstor.eu/bitstream/10419/319605/1/Full-text-article-Schaeffer-Kas-The-integration-paradox.pdf" target="_blank" rel="noopener">Link to Pre-Print</a>
+    <a class="pub-preprint" href="https://www.econstor.eu/bitstream/10419/319605/1/Full-text-article-Schaeffer-Kas-The-integration-paradox.pdf" target="_blank" rel="noopener">→ Link to Pre-Print</a>
   </span>
 </li>
 
@@ -165,7 +165,7 @@ title: "Publications"
   <span class="pub-num">14</span>
   <span class="pub-body">
     Wiedner, Jonas and <strong>Merlin Schaeffer</strong> (2020). <a href="https://doi.org/10.1016/j.rssm.2020.100526" target="_blank" rel="noopener">"Career trajectories into undereducation. Which skills and resources substitute formal education in the intergenerational transmission of advantage?"</a> <em>Research in Social Stratification and Mobility</em> 68: 100526.
-    <a class="pub-link pub-link--wp" href="https://www.econstor.eu/bitstream/10419/222491/1/Full-text-article-Wiedner-et-al-Career-trajectories-into_v2.pdf" target="_blank" rel="noopener">Link to Pre-Print</a>
+    <a class="pub-preprint" href="https://www.econstor.eu/bitstream/10419/222491/1/Full-text-article-Wiedner-et-al-Career-trajectories-into_v2.pdf" target="_blank" rel="noopener">→ Link to Pre-Print</a>
   </span>
 </li>
 
@@ -181,7 +181,7 @@ title: "Publications"
   <span class="pub-num">12</span>
   <span class="pub-body">
     Heisig, Jan Paul and <strong>Merlin Schaeffer</strong> (2019). <a href="https://doi.org/10.1093/esr/jcy053" target="_blank" rel="noopener">"Why You Should Always Include a Random Slope for the Lower-Level Variable Involved in a Cross-Level Interaction."</a> <em>European Sociological Review</em> 35(2): 258–279.
-    <a class="pub-link pub-link--wp" href="https://www.econstor.eu/bitstream/10419/195523/2/f-21940-online-supplement-Heisig-et_al.pdf" target="_blank" rel="noopener">Link to Pre-Print</a>
+    <a class="pub-preprint" href="https://www.econstor.eu/bitstream/10419/195523/2/f-21940-online-supplement-Heisig-et_al.pdf" target="_blank" rel="noopener">→ Link to Pre-Print</a>
   </span>
 </li>
 
@@ -189,7 +189,7 @@ title: "Publications"
   <span class="pub-num">11</span>
   <span class="pub-body">
     <strong>Schaeffer, Merlin</strong> (2019). <a href="https://doi.org/10.1093/esr/jcy042" target="_blank" rel="noopener">"Social Mobility and Perceived Discrimination: Adding an Intergenerational Perspective."</a> <em>European Sociological Review</em> 35(2): 258–279.
-    <a class="pub-link pub-link--wp" href="https://doi.org/10.31235/osf.io/vykkz" target="_blank" rel="noopener">Link to Pre-Print</a>
+    <a class="pub-preprint" href="https://doi.org/10.31235/osf.io/vykkz" target="_blank" rel="noopener">→ Link to Pre-Print</a>
   </span>
 </li>
 
@@ -197,7 +197,7 @@ title: "Publications"
   <span class="pub-num">10</span>
   <span class="pub-body">
     Klinger, Julia, Stefan Jünger, and <strong>Merlin Schaeffer</strong> (2018). <a href="https://doi.org/10.1515/zfsoz-2017-1022" target="_blank" rel="noopener">"Der Halo-Effekt in einheimisch-homogenen Nachbarschaften. Steigert die ethnische Diversität angrenzender Nachbarschaften die Xenophobie in Deutschland?"</a> <em>Zeitschrift für Soziologie</em> 46(6): 402–419.
-    <a class="pub-link pub-link--wp" href="https://curis.ku.dk/ws/portalfiles/portal/300160961/10.1515_zfsoz_2017_1022.pdf" target="_blank" rel="noopener">Link to Pre-Print</a>
+    <a class="pub-preprint" href="https://curis.ku.dk/ws/portalfiles/portal/300160961/10.1515_zfsoz_2017_1022.pdf" target="_blank" rel="noopener">→ Link to Pre-Print</a>
   </span>
 </li>
 
@@ -205,7 +205,7 @@ title: "Publications"
   <span class="pub-num">9</span>
   <span class="pub-body">
     Heisig, Jan Paul, <strong>Merlin Schaeffer</strong>, and Johannes Giesecke (2017). <a href="https://doi.org/10.1177/0003122417717901" target="_blank" rel="noopener">"The Costs of Simplicity: Why Multilevel Models May Benefit from Accounting for Cross-Cluster Differences in the Effects of Controls."</a> <em>American Sociological Review</em> 82(4): 796–827.
-    <a class="pub-link pub-link--wp" href="https://www.econstor.eu/bitstream/10419/182102/1/f-20885-full-text-Heisig-et_al-Costs-v3.pdf" target="_blank" rel="noopener">Link to Pre-Print</a>
+    <a class="pub-preprint" href="https://www.econstor.eu/bitstream/10419/182102/1/f-20885-full-text-Heisig-et_al-Costs-v3.pdf" target="_blank" rel="noopener">→ Link to Pre-Print</a>
   </span>
 </li>
 
@@ -213,7 +213,8 @@ title: "Publications"
   <span class="pub-num">8</span>
   <span class="pub-body">
     Legewie, Joscha and <strong>Merlin Schaeffer</strong> (2016). <a href="https://doi.org/10.1086/686942" target="_blank" rel="noopener">"Contested Boundaries: Explaining Where Ethnoracial Diversity Provokes Neighborhood Conflict."</a> <em>American Journal of Sociology</em> 122(1): 125–161.
-    <span class="pub-award">ASA Mathematical Sociology Award 2017 &middot; ASA Distinguished Contribution to Scholarship in Population 2016</span>
+    <span class="pub-award">ASA Mathematical Sociology Award 2017</span>
+    <span class="pub-award">ASA Distinguished Contribution to Scholarship in Population 2016</span>
   </span>
 </li>
 
@@ -221,7 +222,7 @@ title: "Publications"
   <span class="pub-num">7</span>
   <span class="pub-body">
     <strong>Schaeffer, Merlin</strong>, Jutta Höhne, and Céline Teney (2016). <a href="https://doi.org/10.1093/esr/jcv091" target="_blank" rel="noopener">"Income Advantages of Poorly Qualified Immigrant Minorities: Why School Dropouts of Turkish Origin Earn More in Germany."</a> <em>European Sociological Review</em> 32(1): 3–107.
-    <a class="pub-link pub-link--wp" href="https://ideas.repec.org/p/osf/socarx/xzv3f.html" target="_blank" rel="noopener">Link to Pre-Print</a>
+    <a class="pub-preprint" href="https://ideas.repec.org/p/osf/socarx/xzv3f.html" target="_blank" rel="noopener">→ Link to Pre-Print</a>
     <span class="pub-award">Anatol Rapoport Prize 2016</span>
   </span>
 </li>
@@ -230,7 +231,7 @@ title: "Publications"
   <span class="pub-num">6</span>
   <span class="pub-body">
     Koopmans, Ruud and <strong>Merlin Schaeffer</strong> (2016). <a href="https://link.springer.com/article/10.1007/s11205-015-0863-3" target="_blank" rel="noopener">"Statistical and Perceived Diversity and Their Impacts on Neighborhood Social Cohesion in Germany, France and the Netherlands."</a> <em>Social Indicators Research</em> 125: 853–883.
-    <a class="pub-link pub-link--wp" href="https://doi.org/10.31235/osf.io/64p3z" target="_blank" rel="noopener">Link to Pre-Print</a>
+    <a class="pub-preprint" href="https://doi.org/10.31235/osf.io/64p3z" target="_blank" rel="noopener">→ Link to Pre-Print</a>
   </span>
 </li>
 
@@ -238,7 +239,7 @@ title: "Publications"
   <span class="pub-num">5</span>
   <span class="pub-body">
     Koopmans, Ruud and <strong>Merlin Schaeffer</strong> (2015). <a href="https://doi.org/10.1016/j.ssresearch.2015.05.010" target="_blank" rel="noopener">"Relational diversity and neighbourhood cohesion. Unpacking variety, balance and in-group size."</a> <em>Social Science Research</em> 53: 162–176.
-    <a class="pub-link pub-link--wp" href="https://doi.org/10.31235/osf.io/6pesk" target="_blank" rel="noopener">Link to Pre-Print</a>
+    <a class="pub-preprint" href="https://doi.org/10.31235/osf.io/6pesk" target="_blank" rel="noopener">→ Link to Pre-Print</a>
   </span>
 </li>
 
@@ -255,7 +256,7 @@ title: "Publications"
   <span class="pub-num">3</span>
   <span class="pub-body">
     <strong>Schaeffer, Merlin</strong> (2013). <a href="https://doi.org/10.1016/j.ssresearch.2012.12.018" target="_blank" rel="noopener">"Can competing diversity indices inform us about why ethnic diversity erodes social cohesion? A test of five diversity indices in Germany."</a> <em>Social Science Research</em> 42(3): 755–774.
-    <a class="pub-link pub-link--wp" href="https://doi.org/10.31235/osf.io/upucm" target="_blank" rel="noopener">Link to Pre-Print</a>
+    <a class="pub-preprint" href="https://doi.org/10.31235/osf.io/upucm" target="_blank" rel="noopener">→ Link to Pre-Print</a>
   </span>
 </li>
 
@@ -263,7 +264,7 @@ title: "Publications"
   <span class="pub-num">2</span>
   <span class="pub-body">
     <strong>Schaeffer, Merlin</strong> (2013). <a href="https://doi.org/10.1080/1369183X.2013.778147" target="_blank" rel="noopener">"Inter-Ethnic Neighbourhood Acquaintances of Migrants and Natives in Germany: On the Brokering Roles of Inter-Ethnic Partners and Children."</a> <em>Journal of Ethnic and Migration Studies</em> 39(8): 1219–1240.
-    <a class="pub-link pub-link--wp" href="https://doi.org/10.31235/osf.io/zrnz2" target="_blank" rel="noopener">Link to Pre-Print</a>
+    <a class="pub-preprint" href="https://doi.org/10.31235/osf.io/zrnz2" target="_blank" rel="noopener">→ Link to Pre-Print</a>
   </span>
 </li>
 
@@ -271,7 +272,7 @@ title: "Publications"
   <span class="pub-num">1</span>
   <span class="pub-body">
     <strong>Schaeffer, Merlin</strong> (2013). <a href="https://doi.org/10.1080/01419870.2011.644311" target="_blank" rel="noopener">"Which groups are mostly responsible for problems in your neighbourhood?"</a> <em>Ethnic and Racial Studies</em> 36(1): 156–178.
-    <a class="pub-link pub-link--wp" href="https://doi.org/10.31235/osf.io/3pt8a_v1" target="_blank" rel="noopener">Link to Pre-Print</a>
+    <a class="pub-preprint" href="https://doi.org/10.31235/osf.io/3pt8a_v1" target="_blank" rel="noopener">→ Link to Pre-Print</a>
   </span>
 </li>
 
@@ -330,7 +331,6 @@ title: "Publications"
   <span class="pub-num">4</span>
   <span class="pub-body">
     <strong>Schaeffer, Merlin</strong>, Judith Kas, and Pia Hagedorn (2023). "The Association between Actual and Perceived Discrimination (APAD): Technical Report." <em>SocArXiv.</em>
-    <a class="pub-link" href="https://doi.org/10.31235/osf.io/ekwfm" target="_blank" rel="noopener">DOI</a>
   </span>
 </li>
 

@@ -381,6 +381,19 @@ footer {
 }
 .pub-link:hover { border-color: var(--olive); color: var(--olive); }
 .pub-oa { font-size: 0.82rem; color: var(--light); margin-left: 0.3em; }
+.pub-preprint {
+  font-family: var(--serif);
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--mid);
+  margin-left: 0.4em;
+  white-space: nowrap;
+  transition: color 0.15s;
+}
+.pub-preprint:hover { color: var(--olive); }
 
 /* ── Teaching ── */
 .course-list { list-style: none; padding: 0; }
