@@ -86,16 +86,12 @@ title: "Outreach"
 
 <h2>Press Coverage</h2>
 
-<h3>Experiences of Ethnic Discrimination in Denmark</h3>
-<ul class="outreach-list">
-<li class="outreach-item">
-  <span class="outreach-year">2023</span>
-  <span>"Well-educated immigrants report more discrimination." <em>CPH Post</em>.</span>
-</li>
-</ul>
-
 <h3>Ethno-Religious Neighborhood Infrastructures and Immigrant Well-Being</h3>
 <ul class="outreach-list">
+<li class="outreach-item">
+  <span class="outreach-year">2025</span>
+  <span>"The ghettos must go." <em>Die Welt</em>.</span>
+</li>
 <li class="outreach-item">
   <span class="outreach-year">2022</span>
   <span>"Auf die Infrastrukturen kommt es an." <em>Kooperationsverbund gesundheitliche Chancengleichheit</em>.</span>
@@ -110,10 +106,42 @@ title: "Outreach"
 </li>
 </ul>
 
+<h3>Refugees' Residential Choices</h3>
+<ul class="outreach-list">
+<li class="outreach-item">
+  <span class="outreach-year">2025</span>
+  <span>"Zuzug in wirtschaftlich schwache Städte." <em>Berliner Zeitung</em>.</span>
+</li>
+<li class="outreach-item">
+  <span class="outreach-year"></span>
+  <span>"Geflüchtete ziehen häufig in Ruhrgebietsstädte." <em>Rheinische Post</em>.</span>
+</li>
+<li class="outreach-item">
+  <span class="outreach-year"></span>
+  <span><em>Bergische Morgenpost</em>.</span>
+</li>
+<li class="outreach-item">
+  <span class="outreach-year"></span>
+  <span><em>Neuss Grevenbroicher Zeitung</em>.</span>
+</li>
+</ul>
+
+<h3>Experiences of Ethnic Discrimination in Denmark</h3>
+<ul class="outreach-list">
+<li class="outreach-item">
+  <span class="outreach-year">2023</span>
+  <span>"Well-educated immigrants report more discrimination." <em>CPH Post</em>.</span>
+</li>
+</ul>
+
 <h3>Ethnic Diversity and Social Trust</h3>
 <ul class="outreach-list">
 <li class="outreach-item">
   <span class="outreach-year">2020</span>
+  <span>"The great longing." <em>Die Welt</em>.</span>
+</li>
+<li class="outreach-item">
+  <span class="outreach-year"></span>
   <span><em>Merion West</em>.</span>
 </li>
 <li class="outreach-item">
@@ -130,6 +158,10 @@ title: "Outreach"
 <ul class="outreach-list">
 <li class="outreach-item">
   <span class="outreach-year">2016</span>
+  <span>"Unscharfer Grenzverlauf als Zündstoff." <em>Neue Zürcher Zeitung</em>.</span>
+</li>
+<li class="outreach-item">
+  <span class="outreach-year"></span>
   <span><em>Der Tagesspiegel</em>.</span>
 </li>
 <li class="outreach-item">
@@ -178,6 +210,10 @@ title: "Outreach"
 <ul class="outreach-list">
 <li class="outreach-item">
   <span class="outreach-year">2012</span>
+  <span>"Politik Kompakt: Wer stört den Frieden in der Nachbarschaft?" <em>Die Welt</em>.</span>
+</li>
+<li class="outreach-item">
+  <span class="outreach-year"></span>
   <span><em>Der Tagesspiegel</em>.</span>
 </li>
 <li class="outreach-item">
