@@ -8,11 +8,11 @@ title: "Outreach"
 <ul class="outreach-list">
 <li class="outreach-item">
   <span class="outreach-year">2026</span>
-  <span>"Unge er i tvivl: Jeg ved ikke, om det er min ret at dø for Danmark." <em>TV2</em>.</span>
+  <span>»Unge er i tvivl: Jeg ved ikke, om det er min ret at dø for Danmark.« <em>TV2</em>.</span>
 </li>
 <li class="outreach-item">
   <span class="outreach-year">2025</span>
-  <span>„Die Ghettos müssen weg" – Wie Dänemarks harte Migrationspolitik in der Praxis funktioniert. <em>Die Welt</em>.</span>
+  <span>»„Die Ghettos müssen weg" – Wie Dänemarks harte Migrationspolitik in der Praxis funktioniert.« <em>Die Welt</em>.</span>
 </li>
 <li class="outreach-item">
   <span class="outreach-year">2023</span>
@@ -20,15 +20,15 @@ title: "Outreach"
 </li>
 <li class="outreach-item">
   <span class="outreach-year">2022</span>
-  <span>"Integration mit der Abrissbirne — wie Dänemark seine ›Gettos‹ loswerden will." <em>Die Welt</em>.</span>
+  <span>»Integration mit der Abrissbirne — wie Dänemark seine ›Gettos‹ loswerden will.« <em>Die Welt</em>.</span>
 </li>
 <li class="outreach-item">
   <span class="outreach-year">2021</span>
-  <span>"Forsvaret er stort set kun en organisation for etniske danskere." <em>Politiken</em>.</span>
+  <span>»Forsvaret er stort set kun en organisation for etniske danskere.« <em>Politiken</em>.</span>
 </li>
 <li class="outreach-item">
   <span class="outreach-year"></span>
-  <span>"Denmark evicts ›ghetto‹ residents to integrate them. Will it help?" <em>The Christian Science Monitor</em>.</span>
+  <span>»Denmark evicts ›ghetto‹ residents to integrate them. Will it help?« <em>The Christian Science Monitor</em>.</span>
 </li>
 </ul>
 
