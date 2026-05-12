@@ -203,6 +203,8 @@ nav {
   font-family: var(--serif);
   font-size: 1.18rem; font-weight: 500; line-height: 1.38; color: var(--black);
 }
+.paper-title a { color: inherit; text-decoration: none; }
+.paper-title a:hover { color: var(--olive); }
 .paper-finding { font-size: 0.88rem; line-height: 1.65; color: var(--mid); flex: 1; }
 
 .paper-footer {

@@ -12,6 +12,7 @@
   finding: "A preregistered survey experiment in Germany provides the first causal evidence for the awareness mechanism behind the integration paradox: informing immigrants about discrimination against their group raises their personal reports of being discriminated against."
   badge: "Pol. Psych. 2025"
   image: "/images/papers/integration-paradox.jpg"
+  url: "https://doi.org/10.1111/pops.13027"
   awards: []
   isBook: false
 
@@ -20,6 +21,7 @@
   finding: "A meta-analysis of 1,001 estimates from 87 studies confirms a statistically significant negative relationship between ethnic diversity and social trust — strongest for trust in neighbours and at local spatial scales, and robust to covariate conditioning."
   badge: "Ann. Rev. Pol. Sci. 2020"
   image: "/images/papers/ethnic-diversity-social-trust.jpg"
+  url: "https://doi.org/10.1146/annurev-polisci-052918-020708"
   awards: []
   isBook: false
 
@@ -28,6 +30,7 @@
   finding: "Based on 4.7 million 311 service requests from New York City, neighborhood conflict is highest not in the most diverse areas but at \"fuzzy boundaries\" — interstitial zones between homogeneous enclaves, identified using edge detection algorithms from computer vision."
   badge: "AJS 2016"
   image: "/images/papers/contested-boundaries.jpg"
+  url: "https://doi.org/10.1086/686942"
   awards:
     - "ASA \u201cMathematical Sociology\u201d Award 2017"
     - "ASA \u201cScholarship in Population\u201d Award 2016"
@@ -38,6 +41,8 @@
   finding: "Most multilevel studies in leading journals assume control variable effects are invariant across clusters — an assumption that is often implausible and that reduces the precision of estimated context effects when it fails."
   badge: "ASR 2017"
   image: "/images/papers/costs-of-simplicity.jpg"
+  url: "https://doi.org/10.1177/0003122417717901"
+  preprint: "https://www.econstor.eu/bitstream/10419/182102/1/f-20885-full-text-Heisig-et_al-Costs-v3.pdf"
   awards: []
   isBook: false
 
@@ -55,6 +60,8 @@
   finding: "When minority educational credentials carry less signalling power, their absence is discounted too — producing a wage floor for school dropouts of Turkish, Greek, and Italian origin that exceeds that of comparably unqualified native Germans."
   badge: "ESR 2016"
   image: "/images/papers/income-advantages.jpg"
+  url: "https://doi.org/10.1093/esr/jcv091"
+  preprint: "https://ideas.repec.org/p/osf/socarx/xzv3f.html"
   awards:
     - "Anatol Rapoport Prize 2016"
   isBook: false

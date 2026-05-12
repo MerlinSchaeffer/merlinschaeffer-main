@@ -24,24 +24,26 @@ selected.forEach((p, i) => {
 
   const awardPills = (p.awards || [])
     .map(a => `<span class="paper-meta-award">${a}</span>`).join('');
-  const bookPill  = p.isBook ? `<span class="paper-type-pill">Book</span>` : '';
-  const imgClass  = p.isBook ? 'paper-image is-book' : 'paper-image';
-  const imgHTML   = p.image
+  const bookPill    = p.isBook ? `<span class="paper-type-pill">Book</span>` : '';
+  const imgClass    = p.isBook ? 'paper-image is-book' : 'paper-image';
+  const imgHTML     = p.image
     ? `<img src="${p.image}" alt="">` : `<span class="paper-image-placeholder">Image placeholder</span>`;
-  const linkLabel = p.isBook ? 'Publisher' : 'Journal';
+  const titleHTML   = p.url
+    ? `<a href="${p.url}" target="_blank" rel="noopener">${p.title}</a>`
+    : p.title;
+  const preprintHTML = p.preprint
+    ? `<a class="pub-preprint" href="${p.preprint}" target="_blank" rel="noopener">→ Link to Pre-Print</a>`
+    : '';
 
   card.innerHTML = `
     <div class="${imgClass}">${imgHTML}</div>
     <div class="paper-card-body">
       <p class="paper-meta"><span>${p.meta}</span>${awardPills}${bookPill}</p>
-      <h2 class="paper-title">${p.title}</h2>
+      <h2 class="paper-title">${titleHTML}</h2>
       <p class="paper-finding">${p.finding}</p>
+      ${preprintHTML}
     </div>
     <div class="paper-footer">
-      <div class="paper-links">
-        <a class="paper-link" href="${p.pdf || '#'}">PDF</a>
-        <a class="paper-link" href="${p.url || '#'}">${linkLabel}</a>
-      </div>
       <span class="paper-badge">${p.badge}</span>
     </div>`;
 
