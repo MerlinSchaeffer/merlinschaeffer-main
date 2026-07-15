@@ -19,6 +19,13 @@ title: "Publications"
 <ul class="pub-list">
 
 <li class="pub-item">
+  <span class="pub-num">33</span>
+  <span class="pub-body">
+    <strong>Merlin Schaeffer</strong>, Alessio Romarri, Dina Rosenberg and Krzystof Krakowski (forthcoming). "When Politics Enters the Waiting Room: Far-Right Electoral Victories Exacerbate Discrimination in Access to Healthcare." <em>American Political Science Review</em>.
+  </span>
+</li>
+
+<li class="pub-item">
   <span class="pub-num">32</span>
   <span class="pub-body">
     Wiedner, Jonas, <strong>Merlin Schaeffer</strong>, Sarah Carol, and Susanne Böller (2026). <a href="https://doi.org/10.1086/739687" target="_blank" rel="noopener">"Local Communities, Distant Origins: How Cultural Distance and Local Context Shape Immigrant Ethnoreligious Infrastructures."</a> <em>American Journal of Sociology</em> 131 (5): 1182–221.
@@ -28,7 +35,7 @@ title: "Publications"
 <li class="pub-item">
   <span class="pub-num">31</span>
   <span class="pub-body">
-    Friis, Camilla B., <strong>Merlin Schaeffer</strong>, Juliane Starcke Neergaard, and Lasse Suonperä Liebst (2026). <a href="https://doi.org/10.1371/journal.pone.0342270" target="_blank" rel="noopener">"Body-Worn Cameras to Prevent Workplace Aggression Among Ticket Inspectors: Protocol for a Randomized Controlled Trial."</a> <em>PLOS ONE.</em>
+    <strong>Schaeffer, Merlin</strong>, Krzysztof Krakowski, and Asmus Olsen (2026). <a href="https://doi.org/10.1111/ajps.12933" target="_blank" rel="noopener">"Correcting Misperceptions about Ethno-Racial Discrimination: The Limits of Evidence-Based Awareness Raising to Promote Support for Equal-Treatment Policies."</a> <em>American Journal of Political Science</em> 70(1): 54–75.
     <span class="pub-oa">(Open access)</span>
   </span>
 </li>
@@ -36,7 +43,7 @@ title: "Publications"
 <li class="pub-item">
   <span class="pub-num">30</span>
   <span class="pub-body">
-    Heisig, Jan Paul, Pablo Garcia, Séamus Power, Thomas Morten, Rebecca Udsen, and <strong>Merlin Schaeffer</strong> (forthcoming). <a href="https://doi.org/10.1177/00016993251379178" target="_blank" rel="noopener">"Schools, childcare infrastructures, and mothers' time use and psychological well-being: Evidence from the COVID-19 pandemic in Denmark."</a> <em>Acta Sociologica.</em>
+    Friis, Camilla B., <strong>Merlin Schaeffer</strong>, Juliane Starcke Neergaard, and Lasse Suonperä Liebst (2026). <a href="https://doi.org/10.1371/journal.pone.0342270" target="_blank" rel="noopener">"Body-Worn Cameras to Prevent Workplace Aggression Among Ticket Inspectors: Protocol for a Randomized Controlled Trial."</a> <em>PLOS ONE</em> 21(2): e0342270.
     <span class="pub-oa">(Open access)</span>
   </span>
 </li>
@@ -44,7 +51,7 @@ title: "Publications"
 <li class="pub-item">
   <span class="pub-num">29</span>
   <span class="pub-body">
-    Breznau, Nate, Eike Mark Rinke, Alexander Wuttke, […] <strong>Merlin Schaeffer</strong>, […] +162 other authors (2025). <a href="https://doi.org/10.1098/rsos.241038" target="_blank" rel="noopener">"The reliability of replications: A study in computational reproductions."</a> <em>Royal Society Open Science</em> 12(3): 241038.
+    Heisig, Jan Paul, Pablo Gracia, Séamus Power, Thomas Morton, Rebecca Udsen, and <strong>Merlin Schaeffer</strong> (2025). <a href="https://doi.org/10.1177/00016993251379178" target="_blank" rel="noopener">"Schools, childcare infrastructures, and mothers' time use and psychological well-being: Evidence from the COVID-19 pandemic in Denmark."</a> <em>Acta Sociologica.</em> <span class="pub-note">Advance online publication.</span>
     <span class="pub-oa">(Open access)</span>
   </span>
 </li>
@@ -52,7 +59,7 @@ title: "Publications"
 <li class="pub-item">
   <span class="pub-num">28</span>
   <span class="pub-body">
-    <strong>Schaeffer, Merlin</strong>, Krzysztof Krakowski, and Asmus Olsen (2024). <a href="https://doi.org/10.1111/ajps.12933" target="_blank" rel="noopener">"Correcting Misperceptions about Ethno-Racial Discrimination: The Limits of Evidence-Based Awareness Raising to Promote Support for Equal-Treatment Policies."</a> <em>American Journal of Political Science</em> 70(1): 54–75.
+    Breznau, Nate, Eike Mark Rinke, Alexander Wuttke, […] <strong>Merlin Schaeffer</strong>, […] +162 other authors (2025). <a href="https://doi.org/10.1098/rsos.241038" target="_blank" rel="noopener">"The reliability of replications: A study in computational reproductions."</a> <em>Royal Society Open Science</em> 12(3): 241038.
     <span class="pub-oa">(Open access)</span>
   </span>
 </li>
@@ -188,7 +195,7 @@ title: "Publications"
 <li class="pub-item">
   <span class="pub-num">11</span>
   <span class="pub-body">
-    <strong>Schaeffer, Merlin</strong> (2019). <a href="https://doi.org/10.1093/esr/jcy042" target="_blank" rel="noopener">"Social Mobility and Perceived Discrimination: Adding an Intergenerational Perspective."</a> <em>European Sociological Review</em> 35(2): 258–279.
+    <strong>Schaeffer, Merlin</strong> (2019). <a href="https://doi.org/10.1093/esr/jcy042" target="_blank" rel="noopener">"Social Mobility and Perceived Discrimination: Adding an Intergenerational Perspective."</a> <em>European Sociological Review</em> 35(1): 65–80.
     <a class="pub-preprint" href="https://doi.org/10.31235/osf.io/vykkz" target="_blank" rel="noopener">→ Link to Pre-Print</a>
   </span>
 </li>
@@ -221,7 +228,7 @@ title: "Publications"
 <li class="pub-item">
   <span class="pub-num">7</span>
   <span class="pub-body">
-    <strong>Schaeffer, Merlin</strong>, Jutta Höhne, and Céline Teney (2016). <a href="https://doi.org/10.1093/esr/jcv091" target="_blank" rel="noopener">"Income Advantages of Poorly Qualified Immigrant Minorities: Why School Dropouts of Turkish Origin Earn More in Germany."</a> <em>European Sociological Review</em> 32(1): 3–107.
+    <strong>Schaeffer, Merlin</strong>, Jutta Höhne, and Céline Teney (2016). <a href="https://doi.org/10.1093/esr/jcv091" target="_blank" rel="noopener">"Income Advantages of Poorly Qualified Immigrant Minorities: Why School Dropouts of Turkish Origin Earn More in Germany."</a> <em>European Sociological Review</em> 32(1): 93–107.
     <a class="pub-preprint" href="https://ideas.repec.org/p/osf/socarx/xzv3f.html" target="_blank" rel="noopener">→ Link to Pre-Print</a>
     <span class="pub-award">Anatol Rapoport Prize 2016</span>
   </span>
