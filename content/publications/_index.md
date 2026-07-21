@@ -21,7 +21,7 @@ title: "Publications"
 <li class="pub-item">
   <span class="pub-num">33</span>
   <span class="pub-body">
-    <strong>Merlin Schaeffer</strong>, Alessio Romarri, Dina Rosenberg and Krzystof Krakowski (forthcoming). "When Politics Enters the Waiting Room: Far-Right Electoral Victories Exacerbate Discrimination in Access to Healthcare." <em>American Political Science Review</em>.
+    <strong>Schaeffer, Merlin</strong>, Alessio Romarri, Dina Rosenberg and Krzystof Krakowski (forthcoming). "When Politics Enters the Waiting Room: Far-Right Electoral Victories Exacerbate Discrimination in Access to Healthcare." <em>American Political Science Review</em>.
   </span>
 </li>
 
