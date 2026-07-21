@@ -1,3 +1,12 @@
+# DRAFT: forthcoming at APSR, no DOI/pages yet — add image and url once assigned
+- meta: "<em>American Political Science Review</em> &middot; forthcoming"
+  title: "When Politics Enters the Waiting Room: Far-Right Electoral Victories Exacerbate Discrimination in Access to Healthcare"
+  finding: "A field experiment placing 801 calls requesting a general practitioner across 252 Italian municipalities finds that callers with West-African accents face sharper scrutiny and higher denial rates than native-Italian callers — a gap that widens where far-right candidates narrowly won close mayoral elections."
+  badge: "APSR forthcoming"
+  image: "/images/papers/waiting-room.jpg"
+  awards: []
+  isBook: false
+
 - meta: "<em>American Journal of Political Science</em> &middot; 70(1) &middot; 2026"
   title: "Correcting Misperceptions about Ethno-Racial Discrimination: The Limits of Evidence-Based Awareness Raising"
   finding: "Informing 4,800 native-born Danes about field-experimental evidence of ethnic discrimination increases recognition of the problem — but does not translate into greater support for equal-treatment policies."
@@ -7,14 +16,15 @@
   awards: []
   isBook: false
 
-- meta: "<em>Political Psychology</em> &middot; 46(3) &middot; 2025"
-  title: "The Integration Paradox: Does Awareness of the Extent of Ethno-Racial Discrimination Increase Reports of Discrimination?"
-  finding: "A preregistered survey experiment in Germany provides the first causal evidence for the awareness mechanism behind the integration paradox: informing immigrants about discrimination against their group raises their personal reports of being discriminated against."
-  badge: "Pol. Psych. 2025"
-  image: "/images/papers/integration-paradox.jpg"
-  url: "https://doi.org/10.1111/pops.13027"
-  awards: []
-  isBook: false
+# Paused — not currently shown in carousel
+# - meta: "<em>Political Psychology</em> &middot; 46(3) &middot; 2025"
+#   title: "The Integration Paradox: Does Awareness of the Extent of Ethno-Racial Discrimination Increase Reports of Discrimination?"
+#   finding: "A preregistered survey experiment in Germany provides the first causal evidence for the awareness mechanism behind the integration paradox: informing immigrants about discrimination against their group raises their personal reports of being discriminated against."
+#   badge: "Pol. Psych. 2025"
+#   image: "/images/papers/integration-paradox.jpg"
+#   url: "https://doi.org/10.1111/pops.13027"
+#   awards: []
+#   isBook: false
 
 - meta: "<em>Annual Review of Political Science</em> &middot; 23 &middot; 2020"
   title: "Ethnic Diversity and Social Trust: A Narrative and Meta-Analytical Review"
@@ -66,10 +76,11 @@
     - "Anatol Rapoport Prize 2016"
   isBook: false
 
-- meta: "Routledge &middot; 2016"
-  title: "Ethnic Diversity and Social Cohesion: Immigration, Ethnic Fractionalization and Potentials for Civic Action"
-  finding: "A book-length synthesis of theory and original research, drawing on 7,500 survey respondents across German counties, examining how ethnic diversity shapes social trust, civic action, and solidarity."
-  badge: "Routledge 2016"
-  image: "/images/papers/ethnic-diversity-social-cohesion.jpg"
-  awards: []
-  isBook: true
+# Paused — not currently shown in carousel
+# - meta: "Routledge &middot; 2016"
+#   title: "Ethnic Diversity and Social Cohesion: Immigration, Ethnic Fractionalization and Potentials for Civic Action"
+#   finding: "A book-length synthesis of theory and original research, drawing on 7,500 survey respondents across German counties, examining how ethnic diversity shapes social trust, civic action, and solidarity."
+#   badge: "Routledge 2016"
+#   image: "/images/papers/ethnic-diversity-social-cohesion.jpg"
+#   awards: []
+#   isBook: true
