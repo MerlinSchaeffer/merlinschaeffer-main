@@ -8,7 +8,7 @@ title: "Outreach"
 <ul class="outreach-list">
 <li class="outreach-item">
   <span class="outreach-year">2026</span>
-  <span>»Finansministeriet: Sådan vil befolkningen se ud i 2100, hvis indvandringen fortsætter som nu.«<em>Politikken</em>.</span>
+  <span>»Finansministeriet: Sådan vil befolkningen se ud i 2100, hvis indvandringen fortsætter som nu.« <em>Politikken</em>.</span>
   </li>
   <li class="outreach-item">
   <span class="outreach-year"></span>
