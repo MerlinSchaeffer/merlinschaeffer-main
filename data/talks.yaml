@@ -1,6 +1,22 @@
+- title: "The Effect of Integration Policies in Denmark"
+  url: "https://merlin-talks.netlify.app/norforsk/norforsk"
+  venues:
+    - "Project workshop, Frisch Centre '26"
+  abstract: >-
+    How do Danish integration policies shape the lives of refugees and their Danish-born children? This presentation
+    lays the groundwork for a survey of both generations built on five policy regimes: quasi-random municipal
+    placement (1986–1998 and 1999–2015), the 1999 expansion of language training, the 2002 welfare benefit cut
+    (Start Aid), and the 2007 tightening of permanent-residency requirements. Using Danish register data, we replicate
+    the placement, regression-discontinuity, and difference-in-differences designs of Foged, Hasager & Peri (2024)
+    and Arendt, Dustmann & Ku (2025), test covariate balance and manipulation of admission dates, and examine effects
+    on refugees' fertility and marriage. We then turn to the sampling design: because the policies' arrival cohorts
+    overlap, few refugees are exposed to a single policy, and the cleanest design, quota allocation from 1999
+    onward, has the fewest adult children to survey so far.
+
 - title: "Seeing People, Seeing Place: Ethnic Minority Presence Triggers Perceived Neighborhood Disorder and Decline"
   url: "https://merlin-talks.netlify.app/Seeing-People/Seeing_People.html"
   venues:
+    - "TARGETS conference, EUI '26"
     - "Sociological Science Conference, Stanford University '26"
     - "Department of Sociology, University of Bonn"
     - "Spring Meeting, Danish Society for Survey Research"
