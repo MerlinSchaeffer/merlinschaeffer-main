@@ -19,6 +19,13 @@ title: "Publications"
 <ul class="pub-list">
 
 <li class="pub-item">
+  <span class="pub-num">34</span>
+  <span class="pub-body">
+    <strong>Schaeffer, Merlin</strong> (forthcoming). "Contested Discrimination: A Theory of the Societal Struggle over Definition and Prevalence." <em>Theory and Society</em>.
+  </span>
+</li>
+
+<li class="pub-item">
   <span class="pub-num">33</span>
   <span class="pub-body">
     <strong>Schaeffer, Merlin</strong>, Alessio Romarri, Dina Rosenberg and Krzystof Krakowski (forthcoming). "When Politics Enters the Waiting Room: Far-Right Electoral Victories Exacerbate Discrimination in Access to Healthcare." <em>American Political Science Review</em>.
