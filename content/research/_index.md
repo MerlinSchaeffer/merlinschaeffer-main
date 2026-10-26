@@ -11,7 +11,7 @@ Why do contemporary democracies struggle so persistently with ethno-racial discr
 **Key publications**
 
 - Schaeffer (forthcoming). "Contested Discrimination: A Theory of the Societal Struggle over Definition and Prevalence." *Theory and Society*
-- Schaeffer, Romarri, Rosenberg & Krakowski (forthcoming). "When Politics Enters the Waiting Room: Far-Right Electoral Victories Exacerbate Discrimination in Access to Healthcare." *American Political Science Review*
+- Schaeffer, Romarri, Rosenberg & Krakowski (2026). "When Politics Enters the Waiting Room: Far-Right Electoral Victories Exacerbate Discrimination in Access to Healthcare." *American Political Science Review*
 - Schaeffer, Krakowski & Olsen (2026). "Correcting Misperceptions about Ethno-Racial Discrimination: The Limits of Evidence-Based Awareness Raising." *American Journal of Political Science* 70(1): 54–75.
 
 ## Ethnic Diversity, Immigrant Integration, and Social Cohesion

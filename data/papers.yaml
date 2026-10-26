@@ -7,12 +7,12 @@
   awards: []
   isBook: false
 
-# DRAFT: forthcoming at APSR, no DOI/pages yet — add image and url once assigned
-- meta: "<em>American Political Science Review</em> &middot; forthcoming"
+- meta: "<em>American Political Science Review</em> &middot; 2026"
   title: "When Politics Enters the Waiting Room: Far-Right Electoral Victories Exacerbate Discrimination in Access to Healthcare"
   finding: "A field experiment placing 801 calls requesting a general practitioner across 252 Italian municipalities finds that callers with West-African accents face sharper scrutiny and higher denial rates than native-Italian callers — a gap that widens where far-right candidates narrowly won close mayoral elections."
-  badge: "APSR forthcoming"
+  badge: "APSR 2026"
   image: "/images/papers/waiting-room.jpg"
+  url: "https://doi.org/10.1017/S0003055426101907"
   awards: []
   isBook: false
 
